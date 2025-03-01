@@ -43,6 +43,5 @@ Cross-validation prevents overfitting by splitting data into multiple folds, ens
 - **Variance**: High for small K, making the model sensitive to noise.
 - **Trade-off**: Optimal K balances flexibility and stability, avoiding both underfitting and overfitting.
 
-```
-Kaggle link: https://www.kaggle.com/code/mohakagarwala/notebooka0791e1fe5
-```
+
+#### Kaggle link: https://www.kaggle.com/code/mohakagarwala/notebooka0791e1fe5
